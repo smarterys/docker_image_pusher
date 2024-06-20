@@ -9,3 +9,8 @@ alpine
 #busybox:stable
 kasmweb/nginx:1.25.3
 python:alpine3.19
+mysql:8
+prom/mysqld-exporter:latest
+prom/node-exporter:latest
+prom/prometheus
+grafana/grafana
