@@ -14,3 +14,4 @@ prom/mysqld-exporter:latest
 prom/node-exporter:latest
 prom/prometheus
 grafana/grafana
+rancher/rancher
