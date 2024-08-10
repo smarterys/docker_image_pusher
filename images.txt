@@ -95,3 +95,4 @@ rancher/system-upgrade-controller:v0.13.1
 rancher/thanosio-thanos:v0.15.0
 rancher/webhook-receiver:v0.2.4
 rancher/webhook-receiver:v0.2.5
+rancher/mirrored-pause:3.6
