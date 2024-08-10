@@ -96,3 +96,7 @@ rancher/thanosio-thanos:v0.15.0
 rancher/webhook-receiver:v0.2.4
 rancher/webhook-receiver:v0.2.5
 rancher/mirrored-pause:3.6
+rancher/mirrored-cluster-api-controller:v1.4.4
+rancher/rancher-webhook:v0.4.7
+rancher/fleet:v0.9.5
+rancher/gitjob:v0.9.8
