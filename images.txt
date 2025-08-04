@@ -101,4 +101,4 @@
 #rancher/fleet:v0.9.5
 #rancher/gitjob:v0.9.8
 #rancher/fleet-agent:v0.9.5
-n8nio/n8n:nightly
+n8nio/n8n:latest
